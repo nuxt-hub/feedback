@@ -1,6 +1,6 @@
 ---
 name: "\U0001F4A1 Feature request"
-about: Suggest an idea for this project
+about: Suggest an idea for the NuxtHub platform.
 title: ''
 labels: enhancement
 assignees: ''
